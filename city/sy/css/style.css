@@ -30,7 +30,7 @@ input[type="email"], input[type="email"], input[type="number"], input[type="pass
 }
 
 input:focus, textarea:focus {
-    border: 1px #004FCB solid;
+    border: 1px #b32c29 solid;
     background-color: #fff
 }
 
@@ -12714,15 +12714,15 @@ h3 {
 }
 
 .header .header_menu ul.menu li.li-subcate:hover:before {
-    border-color: #004FCB
+    border-color: #b32c29
 }
 
 .header .header_menu ul.menu li.current-menu-ancestor.li-subcate:before, .header .header_menu ul.menu li.current-menu-parent.li-subcate:before, .header .header_menu ul.menu li.current-menu-item.li-subcate:before {
-    border-color: #004FCB
+    border-color: #b32c29
 }
 
 .header .header_menu ul.menu li.current-menu-ancestor > a, .header .header_menu ul.menu li.current-menu-parent > a, .header .header_menu ul.menu li.current-menu-item > a {
-    color: #2C74E6;
+    color: #b32c29;
     font-weight: normal
 }
 
@@ -12766,7 +12766,7 @@ h3 {
 }
 
 .header .header_menu ul.menu > li:hover > a {
-    color: #004FCB;
+    color: #b32c29;
     text-decoration: none;
 }
 
@@ -12853,7 +12853,7 @@ h3 {
 }
 
 .header .header_menu ul.menu .ul-subcates a:hover {
-    color: #004FCB
+    color: #b32c29
 }
 
 .header .header_menu ul.empty a {
@@ -12870,7 +12870,7 @@ h3 {
 }
 
 .header .header_btn ul.menu li a:hover i {
-    color: #004FCB
+    color: #b32c29
 }
 
 .header .header_btn ul.menu li i {
@@ -12921,20 +12921,20 @@ h3 {
 }
 
 .header .header_btn ul.menu li.center .ul-subcates li a:hover span, .header .header_btn ul.menu li.center .ul-subcates li a:hover h4 {
-    color: #004FCB
+    color: #b32c29
 }
 
 .header .header_btn ul.menu li.center .ul-subcates li.current span, .header .header_btn ul.menu li.center .ul-subcates li.current h4 {
-    color: #004FCB
+    color: #b32c29
 }
 
 .header .header_btn ul.menu li.center .ul-subcates li.current i {
-    color: #004FCB
+    color: #b32c29
 }
 
 .header .header_btn ul.menu li a {
     height: 32px;
-    background-color: #2C74E6;
+    background-color: #b32c29;
     -ms-flex-item-align: center;
     align-self: center;
     color: #fff;
@@ -12942,7 +12942,7 @@ h3 {
 }
 
 .header .header_btn ul.menu li a:hover {
-    background-color: #004FCB;
+    background-color: #b32c29;
     color: #fff;
 }
 
@@ -13107,13 +13107,13 @@ h3 {
 .search_form form .search_btn {
     margin-right: -80px;
     width: 80px;
-    background-color: #2C74E6;
+    background-color: #b32c29;
     color: #fff;
     border: none
 }
 
 .search_form form .search_btn:hover {
-    background-color: #004FCB
+    background-color: #b32c29
 }
 
 .search_form form input {
@@ -13194,7 +13194,7 @@ h3 {
 }
 
 .carousel p:hover {
-    color: #2C74E6
+    color: #b32c29
 }
 
 .carousel:hover p {
@@ -13576,7 +13576,7 @@ h3 {
     }
 
     .mobile_btn ul li a:hover i, .mobile_btn ul li button:hover i {
-        color: #004FCB
+        color: #b32c29
     }
 
     .mobile_btn ul li a.cart {
