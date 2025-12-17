@@ -66,7 +66,7 @@ mip-iframe {
 }
 
 #MIP-LLIGTBOX-MASK {
-    background: #08C;
+    background: #b32c29;
 }
 
 hr {
@@ -133,7 +133,7 @@ img.mip-fill-content {
 }
 
 mip-vd-tabs .mip-vd-tabs-nav {
-    background-color: #08c;
+    background-color: #b32c29;
     padding: 0;
 }
 
@@ -170,7 +170,7 @@ mip-semi-fixed div[mip-semi-fixed-fixedStatus] {
 }
 
 mip-nav-slidedown .navbar-brand:hover, mip-nav-slidedown .navbar-brand:active {
-    color: #08c;
+    color: #b32c29;
     text-decoration: none
 }
 
@@ -264,8 +264,8 @@ mip-nav-slidedown .navbar-brand:hover, mip-nav-slidedown .navbar-brand:active {
 
 #module-4 .more-link:hover, #single-module-4 .more-link:hover {
     color: #fff;
-    background-color: #08c;
-    border-color: #08c
+    background-color: #b32c29;
+    border-color: #b32c29
 }
 
 #module-4 .more-link:hover i, #single-module-4 .more-link:hover i {
@@ -327,7 +327,7 @@ mip-nav-slidedown .navbar-brand:hover, mip-nav-slidedown .navbar-brand:active {
     margin-bottom: 0;
     padding-top: 30px;
     padding-bottom: 30px;
-    background-color: #08c;
+    background-color: #b32c29;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -365,8 +365,8 @@ mip-nav-slidedown .navbar-brand:hover, mip-nav-slidedown .navbar-brand:active {
 
 #module-13 .more-link:hover {
     color: #fff;
-    background-color: #08c;
-    border-color: #08c
+    background-color: #b32c29;
+    border-color: #b32c29
 }
 
 #module-13 .more-link:hover i {
@@ -495,17 +495,17 @@ mip-nav-slidedown .navbar-brand:hover, mip-nav-slidedown .navbar-brand:active {
 }
 
 #module-20 .news-tab-item.active, #module-20 .more-link {
-    border-color: #ace5c3
+    border-color: #b32c29
 }
 
 #module-20 .news-tab-item:hover, #module-20 .more-link:hover {
-    color: #00a381;
+    color: #b32c29;
     background-color: #fff;
     border-color: #fff
 }
 
 #module-20 .more-link:hover i {
-    color: #00a381
+    color: #b32c29
 }
 
 #module-20 .news-item-title {
@@ -5240,7 +5240,7 @@ span {
     font-size: 16px;
     line-height: 1.2;
     color: #fff;
-    background-color: #08c;
+    background-color: #b32c29;
     border: 0;
     outline: 0;
     border-radius: 5px;
@@ -5300,7 +5300,7 @@ span {
 
 .entry .entry-content h2, .entry .entry-content .h2 {
     font-size: 20px;
-    border-left: 6px solid #08c;
+    border-left: 6px solid #b32c29;
     padding-left: 15px;
     line-height: 1;
     margin-bottom: 15px;
@@ -5555,7 +5555,7 @@ span {
 .pagination
 .current {
     color: #fff;
-    background: #08c
+    background: #b32c29
 }
 
 .pagination a:hover {
@@ -8812,7 +8812,7 @@ input {
 }
 
 .comment-respond input:focus {
-    border-color: #08c
+    border-color: #b32c29
 }
 
 .comment-respond
@@ -8844,7 +8844,7 @@ textarea {
 }
 
 .comment-form-comment textarea:focus {
-    border-color: #08c
+    border-color: #b32c29
 }
 
 .comment-form-author, .comment-form-email, .comment-form-url {
@@ -8864,7 +8864,7 @@ textarea {
     font-size: 14px;
     line-height: 1.2;
     color: #fff;
-    background-color: #08c;
+    background-color: #b32c29;
     border: 0;
     outline: 0;
     border-radius: 3px
@@ -9341,7 +9341,7 @@ img {
     width: 100%;
     height: 100%;
     content: "";
-    background-color: #08c;
+    background-color: #b32c29;
     opacity: 0;
     filter: alpha(opacity=0)
 }
@@ -9438,7 +9438,7 @@ a {
     width: 100%;
     height: 100%;
     content: "";
-    background-color: #08c;
+    background-color: #b32c29;
     opacity: 0;
     filter: alpha(opacity=0)
 }
@@ -9548,7 +9548,7 @@ a {
 
 .widget-title {
     padding-left: 10px;
-    border-left: 3px solid #08c;
+    border-left: 3px solid #b32c29;
     margin: 0 0 12px;
     font-size: 16px;
     font-weight: 600
@@ -9680,7 +9680,7 @@ a {
 .sidebar .widget_nav_menu ul li.current-menu-item a, .sidebar .widget_nav_menu ul li.current-post-parent
 a {
     color: #fff;
-    background: #08c
+    background: #b32c29
 }
 
 .sidebar .widget_nav_menu ul li.current-menu-item a:after, .sidebar .widget_nav_menu ul li.current-post-parent a:after {
@@ -9826,7 +9826,7 @@ a {
     font-weight: 400;
     color: #fff;
     text-align: center;
-    background-color: #08c
+    background-color: #b32c29
 }
 
 .action .wechat:after {
@@ -10771,7 +10771,7 @@ input.error {
     font-size: 14px;
     line-height: 20px;
     color: #fff;
-    background: #08c;
+    background: #b32c29;
     outline: 0
 }
 
@@ -10876,7 +10876,7 @@ a {
 }
 
 a {
-    color: #08c
+    color: #b32c29
 }
 
 a:hover {
@@ -11066,7 +11066,7 @@ input.submit {
     line-height: 30px;
     text-align: center;
     color: #fff;
-    background-color: #08c;
+    background-color: #b32c29;
     cursor: pointer
 }
 
@@ -11160,7 +11160,7 @@ input.submit {
     padding: 10px 30px;
     line-height: 1;
     color: #666;
-    border: 1px solid #08c;
+    border: 1px solid #b32c29;
     border-radius: 30px
 }
 
@@ -11175,8 +11175,8 @@ input.submit {
 
 .more-link:hover {
     text-decoration: none;
-    background: #08c;
-    border-color: #08c
+    background: #b32c29;
+    border-color: #b32c29
 }
 
 .more-link:hover, .more-link:hover i {
@@ -11248,8 +11248,8 @@ li {
 .carousel-review .carousel-indicators li.active {
     width: 10px;
     height: 10px;
-    border-color: #08c;
-    background: #08c
+    border-color: #b32c29;
+    background: #b32c29
 }
 
 .carousel-author {
@@ -11533,7 +11533,7 @@ a {
     display: inline-block;
     font-size: 16px;
     color: #fff;
-    background: #08c;
+    background: #b32c29;
     border: 0
 }
 
@@ -12286,7 +12286,7 @@ p {
 
 .um .um-profile-body .um-item-meta
 a {
-    color: #08c;
+    color: #b32c29;
     border-bottom: 0;
     font-weight: 400
 }
@@ -13039,7 +13039,7 @@ h3 {
     bottom: 0;
     height: 100%;
     width: 100%;
-    background-color: #08C;
+    background-color: #b32c29;
 }
 
 .popup a.close {
@@ -13824,7 +13824,7 @@ ul.msg li ul.msg {
     line-height: 40px;
     height: 40px;
     width: 100%;
-    background: #08C;
+    background: #b32c29;
     color: #fff;
     position: absolute;
     right: 0;
@@ -13862,7 +13862,7 @@ ul.msg li ul.msg {
     position: absolute;
     bottom: 10px;
     right: 0;
-    background: #08c;
+    background: #b32c29;
     color: #fff;
     width: 60px;
 }
