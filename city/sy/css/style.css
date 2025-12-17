@@ -148,7 +148,7 @@ mip-vd-tabs .mip-vd-tabs-nav-li {
 }
 
 mip-vd-tabs .mip-vd-tabs-nav-view {
-    background-color: #b32c29;
+    background-color: #fff;
 }
 
 mip-vd-tabs .mip-vd-tabs-nav .mip-vd-tabs-nav-selected {
@@ -509,7 +509,7 @@ mip-nav-slidedown .navbar-brand:hover, mip-nav-slidedown .navbar-brand:active {
 }
 
 #module-20 .news-item-title {
-    color: #fff
+    color: #e8f2ec
 }
 
 #module-20 .news-item-title:hover {
@@ -517,7 +517,7 @@ mip-nav-slidedown .navbar-brand:hover, mip-nav-slidedown .navbar-brand:active {
 }
 
 #module-20 .news-item-content, #module-20 .news-item-month {
-    color: #fff
+    color: #cce2d1
 }
 
 #module-20 .news-item-day:after {
@@ -5248,7 +5248,7 @@ span {
 }
 
 .entry .btn-enquiry:hover {
-    background-color: #07c
+    background-color: #b32c29
 }
 
 .entry .btn-demo {
@@ -5560,7 +5560,7 @@ span {
 
 .pagination a:hover {
     color: #fff;
-    background: #07c;
+    background: #b32c29;
     cursor: pointer;
     text-decoration: none
 }
@@ -8871,7 +8871,7 @@ textarea {
 }
 
 .form-submit .submit:hover {
-    background-color: #07c
+    background-color: #b32c29
 }
 
 .post-list {
@@ -8913,7 +8913,7 @@ textarea {
 }
 
 .post-list .entry-title a:hover {
-    color: #07c;
+    color: #b32c29;
     text-decoration: none
 }
 
@@ -9168,7 +9168,7 @@ img {
 
 .p-item-wrap:hover .title
 a {
-    color: #07c;
+    color: #b32c29;
     transition: all .3s ease-out 0s;
     -moz-transition: all .3s ease-out 0s;
     -webkit-transition: all .3s ease-out 0s
@@ -9522,7 +9522,7 @@ a {
 }
 
 .widget ol a:hover, .widget ul a:hover {
-    color: #07c;
+    color: #b32c29;
     text-decoration: none
 }
 
@@ -9542,8 +9542,8 @@ a {
 
 .widget .tagcloud a:hover {
     color: #fff;
-    background: #07c;
-    border-color: #07c
+    background: #b32c29;
+    border-color: #b32c29
 }
 
 .widget-title {
@@ -9698,7 +9698,7 @@ a {
 
 .sidebar .widget_nav_menu ul li.current-menu-item .sub-menu a:hover, .sidebar .widget_nav_menu ul li.current-post-parent .sub-menu a:hover {
     color: #fff;
-    background: #07c
+    background: #b32c29
 }
 
 .sidebar .widget_nav_menu ul li.current-menu-item .sub-menu a:hover:after, .sidebar .widget_nav_menu ul li.current-post-parent .sub-menu a:hover:after {
@@ -9720,7 +9720,7 @@ a {
 
 .sidebar .widget_nav_menu ul li a:hover {
     color: #fff;
-    background: #07c
+    background: #b32c29
 }
 
 .widget_image_ad {
@@ -9780,7 +9780,7 @@ a {
 
 .action .a-box:hover {
     color: #fff;
-    background-color: #07c;
+    background-color: #b32c29;
     cursor: pointer
 }
 
@@ -10164,8 +10164,8 @@ li {
 
 .widget-contact-wrap .widget-contact-sns .fa:hover {
     color: #fff;
-    border-color: #07c;
-    background: #07c
+    border-color: #b32c29;
+    background: #b32c29
 }
 
 .widget-contact-wrap .sns-wx {
@@ -10776,7 +10776,7 @@ input.error {
 }
 
 .social-login-form .sl-input-submit:hover {
-    background: #07c
+    background: #b32c29
 }
 
 .social-login-form .sl-input-submit:active, .social-login-form .sl-input-submit:focus {
@@ -10880,7 +10880,7 @@ a {
 }
 
 a:hover {
-    color: #07c
+    color: #b32c29
 }
 
 a:active, a:focus {
@@ -11024,7 +11024,7 @@ body {
 }
 
 .search-icon:hover {
-    color: #07c
+    color: #b32c29
 }
 
 .search-form {
@@ -11071,7 +11071,7 @@ input.submit {
 }
 
 .search-form input.submit:hover {
-    background-color: #07c
+    background-color: #b32c29
 }
 
 .section {
@@ -12292,7 +12292,7 @@ a {
 }
 
 .um .um-profile-body .um-item-meta a:hover {
-    color: #07c;
+    color: #b32c29;
     border-bottom: 0
 }
 
@@ -12314,7 +12314,7 @@ a {
 }
 
 .um .um-profile-body .um-item-link a:hover {
-    color: #07c;
+    color: #b32c29;
     text-decoration: none !important
 }
 
