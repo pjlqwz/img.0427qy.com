@@ -1,0 +1,229 @@
+﻿@charset "utf-8";
+.in_gray{
+	font-family:"微软雅黑";
+	color:#575757;
+}
+.in_linkgray a {
+	font-family: "微软雅黑";
+	color: #4d4d4d;
+}
+.in_linkgray a:link {
+	text-decoration: none;
+}
+.in_linkgray a:visited {
+	text-decoration: none;
+	color: #4d4d4d;
+}
+.in_linkgray a:hover {
+	text-decoration: none;
+	color: #000000;
+}
+.in_linkgray a:active {
+	text-decoration: none;
+	color: #4d4d4d;
+}
+.orange{
+	color:#f27a00;
+}
+.blue14{
+	font-family:"微软雅黑";
+	color:#005aac;
+	font-size:14px;
+}
+.in_linkgray18 a {
+	font-family: "微软雅黑";
+	font-size: 18px;
+	color: #5e5e5e;
+}
+.in_linkgray18 a:link {
+	text-decoration: none;
+}
+.in_linkgray18 a:visited {
+	text-decoration: none;
+	color: #5e5e5e;
+}
+.in_linkgray18 a:hover {
+	text-decoration: none;
+	color: #333;
+}
+.in_linkgray18 a:active {
+	text-decoration: none;
+	color: #5e5e5e;
+}
+.in_gray22{
+	font-family: "微软雅黑";
+	font-size: 18px;
+	color: #5e5e5e;
+}
+.in_gray24Imp{
+	font-family:Impact;
+	font-size:24px;
+	color:#5e5e5e;
+}
+.in_linkwhite a {
+	font-family: "微软雅黑";
+	color: #FFFFFF;
+}
+.in_linkwhite a:link {
+	text-decoration: none;
+}
+.in_linkwhite a:visited {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+.in_linkwhite a:hover {
+	text-decoration: none;
+	color: #CCCCCC;
+}
+.in_linkwhite a:active {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+.in_white{
+	font-family: "微软雅黑";
+	color: #FFFFFF;
+}
+/*子页字体*/
+.red15 {
+	font-family: "微软雅黑";
+	font-size: 15px;
+	color: #00469e;
+}
+.linkgray a {
+	font-family: Arial;
+	color: #6d6d6d;
+}
+.linkgray a:link {
+	text-decoration: none;
+}
+.linkgray a:visited {
+	text-decoration: none;
+	color: #6d6d6d;
+}
+.linkgray a:hover {
+	text-decoration: none;
+	color: #333;
+}
+.linkgray a:active {
+	text-decoration: none;
+	color: #6d6d6d;
+}
+.linkred a {
+	font-family: Arial;
+	color: #00469e;
+}
+.linkred a:link {
+	text-decoration: none;
+}
+.linkred a:visited {
+	text-decoration: none;
+	color: #00469e;
+}
+.linkred a:hover {
+	text-decoration: none;
+	color: #00F;
+}
+.linkred a:active {
+	text-decoration: none;
+	color: #00469e;
+}
+.linkbandr a {
+	font-family: Arial;
+	color: #2c2f30;
+}
+.linkbandr a:link {
+	text-decoration: none;
+}
+
+ .linkbandr a:visited {
+	 text-decoration: none;
+	color: #2c2f30;
+}
+ .linkbandr a:hover {
+	 text-decoration: none;
+	color: #00F;
+}
+ .linkbandr a:active {
+	 text-decoration: none;
+	color: #2c2f30;
+}
+.light_gray {
+	font-family: Arial;
+	color: #989898;
+}
+.linklight_gray a {
+	font-family: Arial;
+	color: #989898;
+}
+.linklight_gray a:link {
+	text-decoration: none;
+}
+.linklight_gray a:visited {
+	text-decoration: none;
+	color: #989898;
+}
+.linklight_gray a:hover {
+	text-decoration: none;
+	color: #333;
+}
+.linklight_gray a:active {
+	text-decoration: none;
+	color: #989898;
+}
+.linkblue a{
+	font-family: "微软雅黑";
+	font-size:12px;
+	color: #1e78e6;
+	text-decoration: none;
+}
+.linkblue a:visited {
+	text-decoration: none;
+	color: #1e78e6;
+}
+.linkblue a:hover {
+	text-decoration: underline;
+	color: #1e78e6;
+}
+.linkblue a:active {
+	text-decoration: none;
+	color: #1e78e6;
+}
+.gray{
+	font-family:"微软雅黑";
+	font-size:12px;
+	color:#666666;
+	}
+.con_gray{
+	font-family:Arial;
+	color:#666666;
+	}
+.linelightblue a {
+	font-family: Arial;
+	color: #336699;
+}
+.graya12 {
+	font-family: Arial;
+	font-size:12px;
+	color: #6d6d6d;
+}
+.gray14 {
+	font-family: "微软雅黑";
+	font-size: 14px;
+	color: #6d6d6d;
+}
+.black16 {
+	font-family: "微软雅黑";
+	font-size: 16px;
+	color: #000;
+}
+.deepred14{
+	font-family: "微软雅黑";
+	font-size:14px;
+	color: #d30101;
+}
+.gray12 {
+	font-family: Arial;
+	font-size:12px;
+	color: #6d6d6d;
+}
+/*end*/
